@@ -16,8 +16,8 @@ body {
 }
  
 .cart-item {
-  display: flex;
-  justify-content: space-between;
+  display: block;
+  justify-content: flex-start;
   align-items: center;
   margin-bottom: 10px;
 }
